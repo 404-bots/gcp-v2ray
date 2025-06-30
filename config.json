@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "8a337d32-3896-4bed-8188-72bea8106795",
+            "id": "36459fd0-0c89-4733-b20e-067ffc341bd2",
             "level": 0
           }
         ],
@@ -14,9 +14,8 @@
       },
       "streamSettings": {
         "network": "ws",
-        "security": "none",
         "wsSettings": {
-          "path": "/tg-@nkka404"
+          "path": "/TG-@nkka404"
         }
       }
     }
